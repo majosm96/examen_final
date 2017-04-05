@@ -1,0 +1,122 @@
+//Conteiners
+
+//main wrraper
+
+
+//quines somos 
+
+.container {
+	width: 100%;
+	display: flex;
+}
+
+.container-1 {
+	text-align: center;
+	background-color: #000;
+	width: 20%;
+	color: #fff;
+}
+
+.container-1 h1 {
+	margin-bottom: 100px;
+}
+
+.container-1 img {
+	margin-top: 50px;
+}
+
+.info {
+	margin: 200px 20px 20px 20px;
+}
+
+.info p {
+	margin: 20px 0 20px 0;
+}
+
+
+.container-2 {
+	float: right;
+	width: 80%;
+	background-image: url(../img/an_03.jpg);
+	background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+  	height: 800px;
+}
+
+.bkg-2 {
+	background-image: url(../img/an_06.jpg);
+}
+
+.bkg-1 {
+
+	background-image: url(../img/an_05.jpg);
+
+}
+//menu 
+
+.menu {
+	width: 100%;
+	height: auto;
+	background-image: url(../img/an_04.jpg);
+	text-align: center;
+}
+
+
+.info-menu {
+	padding-top: 100px;
+}
+
+.info-menu h1 {
+	margin-bottom: 50px;
+}
+
+.info-menu p {
+	margin: 30px;
+}
+
+.info-menu img {
+	margin-bottom: 100px;
+}
+
+//Last section ubication
+
+.section {
+	width: 50%;
+	height: 480px;
+}
+
+
+.right-section-img {
+	background-image: url(../img/an_07.jpg);
+	// background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+}
+
+.left-section-img {
+	background-image: url(../img/an_09.jpg);
+	background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+}
+
+.ubication {
+	padding: 50px;
+}
+
+.ubication a {
+	padding: 60px 0 20px 0;
+}
+
+.name-section {
+	text-align: center;
+	background-color: #000;
+	width: 170px;
+	height: auto;
+	color: #fff;
+	border-radius: 5px;
+	position: absolute;
+	left: 45%;
+}
+

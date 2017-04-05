@@ -1,0 +1,45 @@
+//Typography
+
+
+@font-face {
+    font-family: 'montserrat_light';
+    src: url('../fonts/montserrat-extralight-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+a {
+  font-family: 'montserrat_light';
+  font-size: 14px;
+  text-decoration: none;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'montserrat_light';
+  font-size: 25px;
+}
+
+h2 {
+  font-family: 'montserrat_light';
+  font-size: 21px;
+}
+
+p {
+  font-family: 'montserrat_light';
+  font-size: 14px;
+}
+
+h4 {
+  margin: 80px 0 80px 0;
+  font-family: 'montserrat_light';
+  font-size: 14px;
+}
+
+button {
+  font-family: 'montserrat_light';
+  font-size: 18px;
+}
+
